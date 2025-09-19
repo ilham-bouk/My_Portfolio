@@ -513,76 +513,6 @@ nav .logo {
   transform: translateY(0);
 }
 
-
-#contact {
-  background-image: url(../imgs/backgr.svg);
-  position: relative;
-}
-#contact h2, #contact p, form {
-  position: relative;
-}
-#contact p {
-  text-align: center;
-}
-form {
-  background-color: white;
-  display: grid;
-  max-width: var(--width);
-  width: 100%;
-  margin: auto;
-  padding: 30px;
-  gap: 20px;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-  border-radius: 5px;
-  margin-top: 50px;
-}
-.dark form {
-  background-color: var(--dark-bg);
-}
-form label input,
-form label textarea {
-  width: 100%;
-  padding: 10px;
-  border: 1px solid var(--light-gray);
-  background-color: var(--very-light-gray);
-  border-radius: 4px;
-  margin-top: 10px;
-  caret-color: var(--blue);
-}
-.dark form label input,
-.dark form label textarea {
-  background-color: var(--gray);
-  color: white;
-}
-form label textarea {
-  height: 130px;
-}
-form label :last-child:hover ,
-form label :last-child:focus {
-  background-image: linear-gradient(var(--very-light-gray)), linear-gradient(90deg, var(--blue) 0%, rgba(166, 181, 222, 1) 52%);
-  border: 2px solid transparent;
-  background-origin: border-box;
-  background-clip: padding-box, border-box;
-  outline: none;
-}
-form label :last-child:focus {
-  background-image: linear-gradient(white), linear-gradient(90deg, var(--blue) 0%, rgba(166, 181, 222, 1) 52%);
-} 
-.dark form label :last-child:hover ,
-.dark form label :last-child:focus {
-  background-image: linear-gradient(var(--gray)), linear-gradient(90deg, var(--blue) 0%, rgba(166, 181, 222, 1) 52%);
-}
-.dark form label :last-child:focus {
-  background-image: linear-gradient(#bfbfbf), linear-gradient(90deg, var(--blue) 0%, rgba(166, 181, 222, 1) 52%);
-} 
-form button {
-  margin-left: auto;
-}
-form button:hover {
-  box-shadow: rgb(28 29 37 / 21%) 0px 5px 10px 0px;
-}
-
-
 footer {
   background-color: black;
   color: white;
@@ -734,4 +664,5 @@ footer .atribute {
     padding: 20px;
   }
 }
+
 
