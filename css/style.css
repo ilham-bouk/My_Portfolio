@@ -348,19 +348,20 @@ nav .logo {
 }
 
 
-#projects > p , #blogs > p {
+.container > p {
   max-width: var(--width);
   width: 100%;
   margin: 0 auto 15px;
 }
-#projects > p a , #blogs > p a {
+.container > p a {
   color: var(--blue);
   font-weight: bold;
 }
-#projects > p a:hover , #blogs > p a:hover {
+.container > p a:hover {
   color: var(--dark-blue);
   text-decoration: underline;
 } 
+
 
 #projects article {
   display: grid;
@@ -678,6 +679,7 @@ footer .atribute {
     padding: 20px;
   }
 }
+
 
 
 
