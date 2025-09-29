@@ -348,16 +348,16 @@ nav .logo {
 }
 
 
-.container > p {
+h2 + p {
   max-width: var(--width);
   width: 100%;
   margin: 0 auto 15px;
 }
-.container > p a {
+h2 + p a {
   color: var(--blue);
   font-weight: bold;
 }
-.container > p a:hover {
+h2 + p a:hover {
   color: var(--dark-blue);
   text-decoration: underline;
 } 
@@ -747,6 +747,7 @@ footer .atribute {
     padding: 20px;
   }
 }
+
 
 
 
