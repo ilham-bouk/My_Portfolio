@@ -452,6 +452,12 @@ h2 + p a:hover {
 .project .desc button:hover {
   box-shadow: rgb(28 29 37 / 21%) 0px 5px 24px 2px;
 }
+.project .desc .links a {
+  color: white;
+}
+.project .desc .links i {
+  background-color: var(--blue);
+}
 
 
 #blogs {
@@ -747,6 +753,7 @@ footer .atribute {
     padding: 20px;
   }
 }
+
 
 
 
