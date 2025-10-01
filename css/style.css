@@ -632,7 +632,6 @@ footer .info .right ul i {
 }
 footer .info .right ul i:hover {
   scale: 1.3;
-  color: var(--blue);
 }
 .gmail:hover {
   color: #EA4335;
@@ -756,6 +755,7 @@ footer .atribute {
     padding: 20px;
   }
 }
+
 
 
 
