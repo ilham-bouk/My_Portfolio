@@ -141,9 +141,9 @@ nav .logo {
 .links-container ul li:hover::after, .links-container ul li.active::after {
   width: 100%;
 }
-/* .links-container ul li.active a, .links-container ul li:hover a {
+.links-container ul li.active a, .links-container ul li:hover a {
   color: var(--blue);
-} */
+}
 
 .links-container .toggle-menu {
   display: none;
@@ -247,7 +247,6 @@ nav .logo {
 }
 #home ul li a i:hover {
   scale: 1.3;
-  color: var(--blue);
 }
 #home .text {
   position: absolute;
@@ -757,6 +756,7 @@ footer .atribute {
     padding: 20px;
   }
 }
+
 
 
 
