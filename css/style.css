@@ -427,6 +427,7 @@ h2 + p a:hover {
 }
 .project:hover .desc h3 {
   font-size: 3rem;
+  line-height: 1;
 }
 .project .desc p {
   margin: 20px 0;
@@ -752,4 +753,5 @@ footer .atribute {
     padding: 20px;
   }
 }
+
 
