@@ -355,6 +355,7 @@ h2 + p {
   max-width: var(--width);
   width: 100%;
   margin: 0 auto 15px;
+  text-align: center;
 }
 h2 + p a {
   color: var(--blue);
@@ -457,6 +458,9 @@ h2 + p a:hover {
 }
 .project .desc .links a {
   color: white;
+}
+.project .desc .links i {
+  margin-left: 10px;
 }
 
 
@@ -753,6 +757,7 @@ footer .atribute {
     padding: 20px;
   }
 }
+
 
 
 
