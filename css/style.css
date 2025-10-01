@@ -617,7 +617,7 @@ footer .info .left {
 footer .info h3 {
   margin-bottom: 20px;
 }
-footer .info .socials ul {
+footer .info .socials {
   display: flex;
   gap: 20px;
   align-items: center;
@@ -752,3 +752,4 @@ footer .atribute {
     padding: 20px;
   }
 }
+
