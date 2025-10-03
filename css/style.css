@@ -339,11 +339,11 @@ nav .logo {
 .img:hover .js {
   color: #f7df1e;
 }
-.img:hover .sass {
-  color: #CD6799;
-}
 .img:hover .git {
   color: #bd2c00;
+}
+.img:hover .figma {
+  color: #f24e1e;
 }
 
 
@@ -753,5 +753,6 @@ footer .atribute {
     padding: 20px;
   }
 }
+
 
 
