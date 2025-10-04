@@ -11,13 +11,12 @@
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
   - [Contact](#contact)
-- [](#)
 
 ## Overview
 
 ### Screenshot
 
-![Screenshot](imgs/Screenshot.png)
+![Preview image](imgs/preview.png)
 
 ### Links
 
