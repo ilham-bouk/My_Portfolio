@@ -1,4 +1,6 @@
-# Personal Portfolio Website
+# Ilham Bouktir - Personal Portfolio
+
+A clean, responsive personal portfolio website showcasing my front-end development projects and skills.
 
 ## Table of contents
 
@@ -14,29 +16,41 @@
 
 ## Overview
 
-### Screenshot
+### Preview
 
 ![Preview image](imgs/preview.png)
 
-### Links
+### Live Site
 
-- Live Site URL: [Live site](https://ilham-bouk.github.io/Personal_Portfolio/)
+- Live Site URL: [Visit Portfolio](https://ilham-bouk.github.io/Personal_Portfolio/)
+
+## About
+
+This portfolio website serves as a professional showcase of my work as a front-end developer. It features a modern design with smooth animations and full responsiveness across all devices.
+
+### Features
+
+- Fully responsive design (mobile, tablet, desktop)
+- Fast loading and optimized performance
+- Clean and modern UI/UX
+- Project showcase with live demos and GitHub links
+- Recent blogs with links
+- Contact form integration and social links
+- Dark/Light mode toggle
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- JavaScript
-- Desktop-first workflow
-
-### Features
-
-- Responsive design
-
+**HTML5**:
+  - Semantic markup
+**CSS3**:
+  - Modern styling with Flexbox/Grid
+  - CSS custom properties
+**JavaScript**:
+ - Interactive features
+ -
+**Desktop-first workflow**
 
 ### What I learned
 
