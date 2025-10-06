@@ -27,7 +27,7 @@ This portfolio website serves as a professional showcase of my work as a front-e
 
 ### Live Site
 
-- Live Site URL: [Visit Portfolio](https://ilham-bouk.github.io/Personal_Portfolio/)
+- Live Site URL: [Visit Portfolio](https://ilham-bouk.github.io/ilhambouktir/)
 
 ### Features
 
@@ -62,6 +62,7 @@ This portfolio website serves as a professional showcase of my work as a front-e
   - Semantic HTML
   - Meta Tags: Open Graph - Twitter Cards - Schema Markup - Canonical URL
   - Lazy Loading for images
+  - Lighthouse Scores: Performance 92%, Accessibility 92%, Best Practices 100%, and SEO 100%
 
 ---
 
@@ -82,7 +83,7 @@ This project is open source and available under the [MIT License]().
 
 ### Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page]().
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ilham-bouk/ilhambouktir/issues).
 
 ### Show Your Support
 
