@@ -62,7 +62,7 @@ This portfolio website serves as a professional showcase of my work as a front-e
   - Semantic HTML
   - Meta Tags: Open Graph - Twitter Cards - Schema Markup - Canonical URL
   - Lazy Loading for images
-  - Lighthouse Scores: Performance 92%, Accessibility 92%, Best Practices 100%, and SEO 100%
+  - Lighthouse Scores: Performance 98%, Accessibility 96%, Best Practices 100%, and SEO 100%
 
 ---
 
